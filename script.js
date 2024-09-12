@@ -1,4 +1,4 @@
-let countdownTime = 600; 
+let countdownTime = 15; 
 const countdownElement = document.getElementById('countdown');
 const backgroundElement = document.getElementById('background');
 const startButton = document.getElementById('startButton');
